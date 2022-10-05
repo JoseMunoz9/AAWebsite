@@ -9,7 +9,7 @@
 }
 
 :root{
-    --bg-color: #020312;
+    --bg-color: #000000;
     --text-color: #fff;
     --main-color: #eb4a4a;
     --second-color: gray;
@@ -116,7 +116,7 @@ span {
 header.sticky{
     padding: 10px 16%;
     background: var(--bg-color);
-    border-bottom: 1px solid #0e1630;
+    border-bottom: 1px solid #050505;
     transition: .3s;
 }
 .about {
@@ -294,7 +294,7 @@ header.sticky{
 .contact-icons i{
     height: 40px;
     width: 40px;
-    background: #12141c;
+    background: #000000;
     border-radius: 0.5rem;
     color: var(--main-color);
     display: inline-flex;
@@ -405,7 +405,7 @@ header.sticky{
         left: 0;
         display: flex;
         flex-direction: column;
-        background: #12141c;
+        background: #000000;
         text-align: left;
         transition: all .40s ease;
     }
