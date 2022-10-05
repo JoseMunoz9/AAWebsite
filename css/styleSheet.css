@@ -153,8 +153,8 @@ header.sticky{
     font-weight: 600;
 }
 .about-img {
-    height: 15%;
-    width: 15%;
+    height: auto;
+    width: 100%;
     max-width: 460px;
 }
 .main-text{
